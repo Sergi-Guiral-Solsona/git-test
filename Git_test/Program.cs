@@ -6,7 +6,7 @@ namespace Git_test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I dont gonna says hello");
+            Console.WriteLine("3r test de git");
         }
     }
 }
